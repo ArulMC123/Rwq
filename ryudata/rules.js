@@ -17,7 +17,7 @@ exports.rules = () => {
 - Anda Tidak Akan Bisa Mengakses Bot Lagi.
 - Mengeksploitasi Terhadap bot.
 Sanksi: *PERMANENT BLOCK*
-- Sengaja/Tidak Sengaja Menelpon Bit.
+- Sengaja/Tidak Sengaja Menelpon Bot.
 Sanksi: *PERMANENT BLOCK*
 `
 }
